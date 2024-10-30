@@ -1,1 +1,1 @@
-pa mol
+pa mol ganteng
