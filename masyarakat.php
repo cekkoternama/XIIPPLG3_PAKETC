@@ -29,11 +29,11 @@
     <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
       <!-- Sidebar - Brand -->
-      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="login.php">
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-keyboard"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">A P P E M <sup>2</sup></div>
+        <div class="sidebar-brand-text mx-3">A P P E M </div>
       </a>
 
       <!-- Divider -->
@@ -41,7 +41,7 @@
 
       <!-- Nav Item - Dashboard -->
       <li class="nav-item">
-        <a class="nav-link" href="blank.php">
+        <a class="nav-link" href="masyarakat.php">
           <i class="fas fa-fw fa-tachometer-alt"></i>
           <span>Dashboard</span></a>
       </li>
@@ -66,7 +66,7 @@
 
       <!-- Nav Item - Tables -->
       <li class="nav-item">
-        <a class="nav-link" href="?url="lihat_laporan">
+        <a class="nav-link" href="?url=lihat_pengaduan">
           <i class="fas fa-search"></i>
           <span>Lihat Laporan</span></a>
       </li>

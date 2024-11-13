@@ -12,7 +12,7 @@
 
 <body>
     <div class="container">
-        <h1>apkikasi pengaduan masyarakat</h1>
+        <h2>apkikasi pengaduan masyarakat</h2>
          <form method="post" action="ceklogin.php">
             <label>Username</label><br>
             <input type="text" name="username"><br>
@@ -23,9 +23,7 @@
         <div class="col">
             <p>OR</p>
             
-        <select name="level">
-            <option value="admin">Admin</option>
-            <option value="operator">Operator</option>
+       
  
 			<input type="submit" class="tombol_login" value="LOGIN">
  

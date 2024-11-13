@@ -19,7 +19,7 @@ if ($jml > 0) {
 
     // Tambahan langkah atau kondisi setelah login berhasil
     // Contoh: Redirect ke halaman dashboard
-    header('location: index.php');
+    header('location:masyarakat.php');
 } else {
     // Jika login gagal, tampilkan pesan kesalahan dan redirect kembali ke halaman login
     echo "<p align='center'>Login gagal</p>";
